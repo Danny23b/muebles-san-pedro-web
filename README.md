@@ -2,7 +2,7 @@
 
 ## Descripción
 
-El proyecto consiste en desarrollar un sistema web para apoyar la transformación digital de Muebles San Pedro, permitiendo establecer una presencia digital para el negocio y facilitar a los clientes la consulta de productos y el contacto con la empresa.
+El proyecto consiste en desarrollar un sistema web para la transformación digital de Muebles San Pedro, para establecer una presencia digital en el negocio y facilitar a los clientes la consulta de productos y el contacto con la empresa.
 
 ## Objetivo del proyecto
 
