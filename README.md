@@ -1,44 +1,52 @@
-# muebles-san-pedro-web
+# Sistema Web para la Transformación Digital de Muebles San Pedro
 
-This template should help get you started developing with Vue 3 in Vite.
+## Descripción
 
-## Recommended IDE Setup
+El proyecto consiste en desarrollar un sistema web para apoyar la transformación digital de Muebles San Pedro, permitiendo establecer una presencia digital para el negocio y facilitar a los clientes la consulta de productos y el contacto con la empresa.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Objetivo del proyecto
 
-## Recommended Browser Setup
+Desarrollar una plataforma web que permita mostrar el catálogo de productos de Muebles San Pedro, facilitar la búsqueda de información y proporcionar medios digitales de contacto y solicitud de cotizaciones.
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## Metodología
 
-## Customize configuration
+El proyecto se desarrolla utilizando la metodología ágil Scrum, mediante Sprints de dos semanas.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Tecnologías
 
-## Project Setup
+- Vue.js
+- JavaScript
+- HTML
+- CSS
+- Git
+- GitHub
 
-```sh
-npm install
-```
+## Sprint 1
 
-### Compile and Hot-Reload for Development
+### Objetivo
 
-```sh
-npm run dev
-```
+Establecer la estructura inicial del sistema web, configurar el entorno de desarrollo, preparar el repositorio y establecer la navegación básica de la aplicación.
 
-### Compile and Minify for Production
+### Actividades realizadas
 
-```sh
-npm run build
-```
+- Creación del repositorio en GitHub.
+- Configuración inicial del proyecto Vue.js.
+- Configuración de Vue Router.
+- Creación de las vistas iniciales.
+- Implementación de la navegación básica.
+- Creación de la página de inicio.
+- Creación de la sección de productos.
+- Creación de la sección de contacto.
 
-### Lint with [ESLint](https://eslint.org/)
+### Vistas desarrolladas
 
-```sh
-npm run lint
-```
+- Inicio
+- Productos
+- Contacto
+
+## Equipo
+
+- Luis David Narvaez Altamirano – Product Owner
+- Edgar Daniel Jiménez Ceja – Scrum Master
+- Miguel Angel Garcia Aguilar – Frontend / UX-UI
+- Jaime Alberto Padron Reyna – Backend / QA
